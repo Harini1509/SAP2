@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-26T11:10:51 IST" name="Suite" finished-at="2024-01-26T11:12:22 IST" duration-ms="90952">
+    <groups>
+    </groups>
+    <test started-at="2024-01-26T11:10:51 IST" name="Test" finished-at="2024-01-26T11:12:22 IST" duration-ms="90952">
+      <class name="main.java.Question5">
+        <test-method signature="test()[pri:0, instance:main.java.Question5@563f38c4]" started-at="2024-01-26T11:10:52 IST" name="test" finished-at="2024-01-26T11:12:22 IST" duration-ms="90900" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- main.java.Question5 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
